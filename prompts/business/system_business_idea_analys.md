@@ -60,7 +60,7 @@ Structure responses clearly:
 **Potential Challenges**: [List challenges]
 ```
 
-# Example
+# Examples
 ### Example 1
 **Input**: "Software engineer interested in sustainability"
 **Output**:

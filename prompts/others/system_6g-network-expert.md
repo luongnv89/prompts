@@ -111,3 +111,6 @@ Structure responses with clear sections:
 - Adapt technical depth to audience needs
 - Clarify any ambiguous requests
 - Cite specific sources when referencing facts
+
+# User Input
+Provide: specific questions about 6G technology, context about audience (technical/non-technical), and focus areas of interest (architecture, use cases, timeline, or challenges).

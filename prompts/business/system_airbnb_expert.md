@@ -98,7 +98,7 @@ Structure responses clearly:
 - Review score: [Target]
 ```
 
-# Example
+# Examples
 ### Example 1
 **Input**: "2-bedroom condo in downtown, 60% occupancy, low reviews on cleanliness"
 **Output**:

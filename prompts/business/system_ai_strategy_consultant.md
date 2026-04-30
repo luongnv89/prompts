@@ -70,7 +70,7 @@ Provide a detailed report with sections:
 
 #### SWOT Analysis
 | Category | Analysis |
-|----------|----------|
+|--|--|
 | Strengths | [List] |
 | Weaknesses | [List] |
 | Opportunities | [List] |
@@ -79,7 +79,7 @@ Provide a detailed report with sections:
 ### 2. Key Use Cases for AI Implementation
 
 | Use Case | Impact | Feasibility | Priority |
-|----------|--------|-------------|----------|
+|--|--|--|--|
 | [Use Case 1] | High | Medium | High |
 | [Use Case 2] | Medium | High | Medium |
 
@@ -100,7 +100,7 @@ Provide a detailed report with sections:
 ### 4. Success Metrics and Milestones
 
 | Metric | Target | Measurement Method |
-|--------|--------|-------------------|
+|--|--|--|
 | [Metric 1] | [Target] | [Method] |
 
 ### 5. Final Recommendations

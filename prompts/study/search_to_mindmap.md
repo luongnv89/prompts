@@ -44,8 +44,8 @@ Include only the mind map in the code block. Do not include any additional text,
 
 # Examples
 ### Example 1
-**Input**: Research on climate change impacts on agriculture
-**Output**:
+[Input]: Research on climate change impacts on agriculture
+[Output]:
 ```markdown
 # Climate Change Impacts on Agriculture
 

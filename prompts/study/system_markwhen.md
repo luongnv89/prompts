@@ -38,8 +38,8 @@ Include only the Markwhen timeline in the code block. Do not include additional 
 
 # Examples
 ### Example 1
-**Input**: Project documentation with various milestones
-**Output**:
+[Input]: Project documentation with various milestones
+[Output]:
 ```markdown
 title: Website Redesign Project Timeline
 description: Key milestones and events for the website redesign project.
@@ -71,4 +71,4 @@ endGroup
 - Do not include analysis, explanations, or additional commentary
 
 # User Input
-Reply with: "I'm ready to help you create a timeline. Please share your document or describe the events you want to include." Then wait for the user to provide the source material.
+Provide source document and key events to extract into a timeline.

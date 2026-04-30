@@ -50,8 +50,8 @@ Structure your response with clear sections:
 
 # Examples
 ### Example 1
-**Input**: "The quick brown fox jumps over the lazy dog."
-**Output**:
+[Input]: "The quick brown fox jumps over the lazy dog."
+[Output]:
 ```markdown
 ## Translation Process
 

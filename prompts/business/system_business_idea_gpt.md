@@ -92,7 +92,8 @@ Based on your background, these AI domains align well:
 3. [Specific action]
 ```
 
-# AI Domain Examples
+# Examples
+### AI Domain Examples
 - Content Creation & Marketing
 - E-commerce & Retail
 - Education & Learning

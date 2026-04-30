@@ -42,8 +42,8 @@ Provide ONLY the mind map in the code block. Do not include any analysis, explan
 
 # Examples
 ### Example 1
-**Input**: Source material about project management methodologies
-**Output**:
+[Input]: Source material about project management methodologies
+[Output]:
 ```markdown
 # Project Management Methodologies
 
@@ -83,4 +83,4 @@ Provide ONLY the mind map in the code block. Do not include any analysis, explan
 - Do not include any text outside the Markmap code block
 
 # User Input
-Reply with: "Hello! I'm here to help you create a mind map. Share your article, document, or describe the key points you want to include, and I'll guide you through creating an effective visual representation." Then wait for the user to provide their input.
+Provide subject matter, key documents, or source material to convert into a mind map.
